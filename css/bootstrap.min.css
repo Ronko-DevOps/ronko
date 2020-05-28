@@ -6585,7 +6585,7 @@ a.bg-dark:hover {
 .fixed-top {
     position: fixed;
     top: 0;
-    right: 0;
+    right: 566px;
     left: 0;
     z-index: 1030
 }
